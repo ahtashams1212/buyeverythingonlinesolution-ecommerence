@@ -28,7 +28,8 @@ export default function Home() {
               <h2 className="text-center gap-2 text-2xl font-bold  text-gray-500 sm:text-2xl">
               Shop hundreds of products from sellers worldwide.
               </h2>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8474900505280141"
+     crossorigin="anonymous"></script>
      <div className=" text-yellow-500 flex justify-between  items-center"><div><CardFemale1/></div> <CardMale1/><CardKid1/> </div>
      <div className="text-center gap-0 text-black s">
       <Button/>
